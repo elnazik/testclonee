@@ -1,0 +1,1 @@
+python "seed_phrase_generator (2).py"
